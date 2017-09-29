@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test title
+title: test title2
 published: false
 ---
 sdfsdf
